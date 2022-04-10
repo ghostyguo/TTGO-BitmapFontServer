@@ -1,7 +1,7 @@
 # TTGO-BitmapFontServer
 ## A font bitmap server for IOT MCUs
-This is an implementation of BitmapFontServer for TTGO T-display: https://github.com/ghostyguo/BitmapFontServer
-Test command by Serial:
+This is an implementation of the BitmapFontServer (https://github.com/ghostyguo/BitmapFontServer) for TTGO T-display. 
+Test commands by Serial:
 - size=NN (font size, default 16)
 - color=XXXX (cont color, 4 bytes HEX)
 
