@@ -5,7 +5,7 @@ Test command by Serial:
 - size=NN (font size, default 16)
 - color=XXXX (cont color, 4 bytes HEX)
 
-The server is implemented in Python. It used the opencv to draw text, then return the bitmap result. The data protocol:
+The server is implemented in Python. It used the opencv to draw text, then return the result bitmap. The data protocol:
 - Client Side: 
 size=NN\n
 text=XXXXXXXX\n
